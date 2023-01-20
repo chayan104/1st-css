@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+  font-size: 150px;
+  color: #172774;
+}
+body{
+  text-align: center;
+  background-color: #F8EDE3;
+}
+h3{
+  color: #4A3333;
+
+  font-size: 55px;
+}
+input{
+  width: 200px;
+  height: 30px;
+}
+label{
+  font-size: 50px;
+  color: #4A3333;
+}
